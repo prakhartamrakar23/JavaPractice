@@ -49,6 +49,7 @@ public class EmployeeMian {
         // obj1.setEmployee(empId, empSalary);
         obj1.setEmployee(5,3.4f);
         obj1.display();
+        sc.close();
 
     }
 }
